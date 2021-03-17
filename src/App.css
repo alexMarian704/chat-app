@@ -1,3 +1,18 @@
 .App {
   text-align: center;
 }
+
+#name{
+  outline: none;
+  width: 250px;
+}
+
+#message{
+  outline: none;
+  width: 250px;
+}
+
+label{
+  font-size: 23px;
+  font-weight: 600;
+}
